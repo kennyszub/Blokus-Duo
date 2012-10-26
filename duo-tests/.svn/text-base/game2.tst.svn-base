@@ -1,0 +1,46 @@
+# A complete game between two human players, it should be a tie game
+# with both players recieving bonus points.
+stdin stdin - 1
+-----
+i001
+ia01
+T410
+T710
+3701
+3401
+La13
+L017
+d927
+d223
+Pc46
+P042
+I720
+I620
+Y572
+Y776
+v7b1
+v5b2
+z885
+z481
+V241
+V940
+t061
+tc63
+Z270
+Z974
+Wb72
+W073
+s950
+s350
+Xaa0
+X1a0
+F3a4
+F8a0
+N027
+Na23
+U0a0
+Uca2
+2550
+2850
+1870
+1570
